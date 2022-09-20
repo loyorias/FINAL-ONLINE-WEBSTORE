@@ -110,16 +110,27 @@ nav ul li {
 
     p {
         text-align: center;
-    padding-bottom: 30px;
+    padding-bottom: 0px;
     }
-
     .kaon1 {
         border: 5px solid #121212;
         padding: 2em;
         margin-left: 36%;
         width: 25%;
+        margin-top: 3%;
+    }
+    .tocartbtn {
+      background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px -1px 11px 45%;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+    opacity: 0.9;
     }
 }
+
 
 // .kaon1 {
 //     border: 5px solid #555;
